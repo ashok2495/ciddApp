@@ -38,7 +38,7 @@
 			<username>kumaras8</username>
 			<environment>Sandbox</environment>
 			<workers>1</workers>
-			<workerTypes>Micro</workerTypes>
+			<workerType>Micro</workerType>
 			<applicatioName>cicdApp</applicatioName>
 			<password>1qa2ws3ED4RF5TG</password>
 			<muleVersion>4.3.0</muleVersion>>
