@@ -39,7 +39,7 @@
 			<environment>Sandbox</environment>
 			<workers>1</workers>
 			<workerType>Micro</workerType>
-			<applicatioName>cicdApp</applicatioName>
+			<applicationName>cicdApp</applicationName>
 			<password>1qa2ws3ED4RF5TG</password>
 			<muleVersion>4.3.0</muleVersion>>
 			</cloudHubDeployment>
