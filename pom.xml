@@ -36,7 +36,7 @@
 				<configuration>
 			<cloudHubDeployment>
 			<username>kumaras8</username>
-			<environment>Sandbox</environment>
+			<environment>Design</environment>
 			<workers>1</workers>
 			<workerType>Micro</workerType>
 			<applicationName>cicdApp</applicationName>
